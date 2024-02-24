@@ -131,3 +131,6 @@ dist
 
 # PyCharm
 .idea/
+
+# quarto files
+/lab1/lab1_files/
